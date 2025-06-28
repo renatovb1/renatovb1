@@ -1,9 +1,9 @@
 # 👋 Olá! Bem-vindo ao meu perfil
 
-🎓 Estudante de Engenharia de Sistemas Informáticos no IPCA 
-💻 Formado em Desenvolvimento Web e Multimédia
-🚀 Apaixonado por tecnologia e desenvolvimento de software  
-📍 Barcelos, Braga – Portugal
+🎓 Estudante de Engenharia de Sistemas Informáticos no IPCA<br>
+💻 Formado em Desenvolvimento Web e Multimédia<br>
+🚀 Apaixonado por tecnologia e desenvolvimento de software<br>
+📍 Barcelos, Braga – Portugal<br>
 
 ---
 
@@ -16,13 +16,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress)
-
----
-
-## 📊 GitHub Stats
-![Renato's GitHub Stats](https://github-readme-stats.vercel.app/api?username=renatobarbosarb&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatobarbosarb&layout=compact&theme=radical)
 
 ---
 
