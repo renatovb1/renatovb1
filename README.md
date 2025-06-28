@@ -1,8 +1,8 @@
 # 👋 Olá! Bem-vindo ao meu perfil
 
-🎓 Estudante de Engenharia de Sistemas Informáticos no IPCA<br>
-💻 Formado em Desenvolvimento Web e Multimédia<br>
-🚀 Apaixonado por tecnologia e desenvolvimento de software<br>
+🎓 Estudante de <b>Engenharia de Sistemas Informáticos<b> no IPCA<br>
+💻 Formado em <b>Desenvolvimento Web e Multimédia<b><br>
+🚀 Apaixonado por tecnologia e <b>desenvolvimento de software<b><br>
 📍 Barcelos, Braga – Portugal<br>
 
 ---
